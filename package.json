@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "devDependencies": {
+    "jest": "22.4.2"
+  },
+  "scripts": {
+    "postinstall": "cd cra-app && yarn",
+    "start": "cd cra-app && yarn start"
+  }
+}
